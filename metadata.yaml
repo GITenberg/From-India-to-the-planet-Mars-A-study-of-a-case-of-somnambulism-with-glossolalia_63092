@@ -1,16 +1,21 @@
 _repo: From-India-to-the-planet-Mars-A-study-of-a-case-of-somnambulism-with-glossolalia_63092
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Vermilye, Daniel B.
     gutenberg_agent_id: '52279'
     url: http://www.gutenberg.org/2009/agents/52279
+covers:
+- cover_type: archival
+  image_path: 63092-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Flournoy, Théodore
     gutenberg_agent_id: '52278'
     url: http://www.gutenberg.org/2009/agents/52278
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63092#From-India-to-the-planet-Mars-A-study-of-a-case-of-somnambulism-with-glossolalia
 gutenberg_issued: '2020-08-31'
 gutenberg_type: Text
 identifiers:
